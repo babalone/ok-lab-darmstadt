@@ -22,14 +22,21 @@ Was gibt es in Darmstadt schon für offene Daten? Nur die Daten, oder auch Visua
 * [Stadtatlas Darmstadt](https://stadtatlas.darmstadt.de/)
 * [Stadtlexikon](https://www.darmstadt-stadtlexikon.de/stadtlexikon-darmstadt.html)
 
-#### Hessen?
+#### Hessen
 Was gibt es in Hessen für interessante Daten? Gibts schon ne Übersicht? (z.B. Luftmessdaten, Daten vom Umweltministerium, Bevölkerungsentwicklung, Nahverkehrsplan)
 * [Lärmkarte](http://laerm.hessen.de/) des [Hessisches Landesamt für Naturschutz, Umwelt und Geologie](https://www.hlnug.de/)
 * [Karte des Hessisches Naturschutzinformationssystem](http://natureg.hessen.de) des [Hessisches Landesamt für Naturschutz, Umwelt und Geologie](https://www.hlnug.de/)
 
-#### Bund?
+#### Bund
 Was gibt es Bundesweit für interessante Daten? Gibts schon ne Übersicht?
 * [Luftdaten.info](https://luftdaten.info/)
+
+#### Europa
+Was gibt es Europaweit für interessante Daten? Gibts schon ne Übersicht?
+
+#### Weltweit
+Was gibt es Weltweit für interessante Daten? Gibts schon ne Übersicht?
+* (OpenStreetMap)[https://www.openstreetmap.org/#map=12/49.8614/8.6837] ist eine Plattform für freie Geodaten und die Karten nur eine Dienstform, die darauf aufbauen. Interessant ist da auch die [Overpass API](https://wiki.openstreetmap.org/wiki/Overpass_API), mit der man Geodaten abfragen kann.
 
 ## Andere Interessante Projekte
 Was gibt es schon in anderen Städten, was auch für Darmstadt interessant und adaptierbar wäre? (z.B. Software, Plattform, Öffentlichkeitsareit, Bürgerbeteiligung)
