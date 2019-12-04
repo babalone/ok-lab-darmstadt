@@ -37,3 +37,5 @@ Was gibt es schon in anderen Städten, was auch für Darmstadt interessant und a
 ## Offene Fragen
 Welche sinnvollen Fragen können vom Öffnen neuer Datenquellen oder der Visualisierung profitieren?
 * Wie ist die aktuelle Luftqualität in Darmstadt und wie entwickelt Sie sich? (mögliche Datenquellen: Messstationen vom Land Hessen, Telekom, [Luftdaten.info](https://luftdaten.info/))
+* Wie ist der aktuelle Grundwasserstand und wie entwickelt er sich?
+* Wie können Daten dort angezeigt werden, wo sie von Interesse sind? (z.B. LoRa-Displays, LEDs)
