@@ -21,7 +21,7 @@ Was gibt es in Darmstadt schon für offene Daten? Nur die Daten, oder auch Visua
 * [Verkehrsdaten](https://darmstadt.ui-traffic.de/)
 * [Stadtatlas Darmstadt](https://stadtatlas.darmstadt.de/)
 * [Stadtlexikon](https://www.darmstadt-stadtlexikon.de/stadtlexikon-darmstadt.html)
-* [Ratsinformationssystem] (https://ris.darmstadt.de)
+* [Ratsinformationssystem](https://ris.darmstadt.de)
 #### Hessen
 Was gibt es in Hessen für interessante Daten? Gibts schon ne Übersicht? (z.B. Luftmessdaten, Daten vom Umweltministerium, Bevölkerungsentwicklung, Nahverkehrsplan)
 * [Lärmkarte](http://laerm.hessen.de/) des [Hessisches Landesamt für Naturschutz, Umwelt und Geologie](https://www.hlnug.de/)
