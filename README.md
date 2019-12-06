@@ -22,6 +22,9 @@ Was gibt es in Darmstadt schon für offene Daten? Nur die Daten, oder auch Visua
 * [Stadtatlas Darmstadt](https://stadtatlas.darmstadt.de/)
 * [Stadtlexikon](https://www.darmstadt-stadtlexikon.de/stadtlexikon-darmstadt.html)
 * [Ratsinformationssystem](https://ris.darmstadt.de)
+* OpenData vom RMV https://opendata.rmv.de/site/start.html
+** RMV kennt "Livedaten" selbst nur mit 20 bis 50 Sekunden Verzögerung
+** Hier [ein Projekt](https://www.darmst.art/) unter [AGPL](https://www.gnu.org/licenses/agpl-3.0)-Lizenz vom [Chaos Darmstadt](https://www.chaos-darmstadt.de), dass die Daten nutzt. Quellcode findet man [hier](https://git.darmstadt.ccc.de/cda/publictransport/).
 #### Hessen
 Was gibt es in Hessen für interessante Daten? Gibts schon ne Übersicht? (z.B. Luftmessdaten, Daten vom Umweltministerium, Bevölkerungsentwicklung, Nahverkehrsplan)
 * [Lärmkarte](http://laerm.hessen.de/) des [Hessisches Landesamt für Naturschutz, Umwelt und Geologie](https://www.hlnug.de/)
@@ -37,9 +40,11 @@ Was gibt es Europaweit für interessante Daten? Gibts schon ne Übersicht?
 #### Weltweit
 Was gibt es Weltweit für interessante Daten? Gibts schon ne Übersicht?
 * (OpenStreetMap)[https://www.openstreetmap.org/#map=12/49.8614/8.6837] ist eine Plattform für freie Geodaten und die Karten nur eine Dienstform, die darauf aufbauen. Interessant ist da auch die [Overpass API](https://wiki.openstreetmap.org/wiki/Overpass_API), mit der man Geodaten abfragen kann.
+* Satellitenbilder
 
 ## Andere Interessante Projekte
 Was gibt es schon in anderen Städten, was auch für Darmstadt interessant und adaptierbar wäre? (z.B. Software, Plattform, Öffentlichkeitsareit, Bürgerbeteiligung)
+* Visualisierung der Beteiligungen der HEAG gibt es [hier](https://shells.darmstadt.ccc.de/~fluxx/heagmap/). Datengrundlage ist der Beteiligungsbericht aus 2017.
 
 ## Offene Fragen
 Welche sinnvollen Fragen können vom Öffnen neuer Datenquellen oder der Visualisierung profitieren?
