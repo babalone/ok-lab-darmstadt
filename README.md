@@ -3,6 +3,9 @@ Sachen, die im Zusammenhang mit dem OK-Lab Darmstadt stehen könnten.
 
 Ein erster Teil wird wohl erstmal eine Bestandsaufnahme der existierenden und geplanten Projekte sein.
 
+## Aktuelle Projekte
+* Es gibt einen ersten Prototypen für einen mobilen [Stadtatlas Darmstadt](https://stadtatlas.darmstadt.de/). Aktuell für Android, aber theoritsch leicht portierbar, da in [Dart](https://dart.dev/)/[Flutter](https://flutter.dev/) geschrieben.
+
 ## Was gibt es in Darmstadt?
 ### Karten
 [Hier eine erste Übersicht](https://der-spielmann.eu/index.php/12-karten-von-darmstadt-und-hessen)
