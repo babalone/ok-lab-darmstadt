@@ -35,7 +35,9 @@ Was gibt es in Hessen für interessante Daten? Gibts schon ne Übersicht? (z.B. 
 
 #### Bund
 Was gibt es Bundesweit für interessante Daten? Gibts schon ne Übersicht?
-* [Luftdaten.info](https://luftdaten.info/)
+* [Luftdaten.info](https://luftdaten.info/): Daten von privaten selbstgebauten Luftmessstationen
+* [Open Data ÖPNV](https://www.opendata-oepnv.de/ht/de/organisation/verkehrsverbuende/rmv/startseite)
+* [Transit Bay](https://transitbay.org/) Graswurzelplattform zum Bereitstellen von ÖPNV-Daten
 
 #### Europa
 Was gibt es Europaweit für interessante Daten? Gibts schon ne Übersicht?
