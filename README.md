@@ -25,6 +25,7 @@ Was gibt es in Darmstadt schon für offene Daten? Nur die Daten, oder auch Visua
 * [Stadtatlas Darmstadt](https://stadtatlas.darmstadt.de/)
 * [Stadtlexikon](https://www.darmstadt-stadtlexikon.de/stadtlexikon-darmstadt.html)
 * [Ratsinformationssystem](https://ris.darmstadt.de)
+* [interaktiver Haushalt Darmstadt](https://primary.ikvs.de/sj/Produkthaushalt.xhtml?jahr=2020&kid=185b19c518xv18cg18cg185b185b185b185b185b185b185b185b185b185b18ce18ce18xn19bt185b&typ=18qm194y194s18qo&dswid=1092)
 * OpenData vom RMV https://opendata.rmv.de/site/start.html
 ** RMV kennt "Livedaten" selbst nur mit 20 bis 50 Sekunden Verzögerung
 ** Hier [ein Projekt](https://www.darmst.art/) unter [AGPL](https://www.gnu.org/licenses/agpl-3.0)-Lizenz vom [Chaos Darmstadt](https://www.chaos-darmstadt.de), dass die Daten nutzt. Quellcode findet man [hier](https://git.darmstadt.ccc.de/cda/publictransport/).
