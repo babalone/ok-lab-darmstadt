@@ -39,6 +39,8 @@ Was gibt es Bundesweit für interessante Daten? Gibts schon ne Übersicht?
 * [Luftdaten.info](https://luftdaten.info/): Daten von privaten selbstgebauten Luftmessstationen
 * [Open Data ÖPNV](https://www.opendata-oepnv.de/ht/de/organisation/verkehrsverbuende/rmv/startseite)
 * [Transit Bay](https://transitbay.org/) Graswurzelplattform zum Bereitstellen von ÖPNV-Daten
+* [Unfallatlas](https://unfallatlas.statistikportal.de/) Geolokalisierte Übersicht von Unfällen im gesamten Bundesgebiet
+* [Statistikportal](http://www.statistikportal.de/de)
 
 #### Europa
 Was gibt es Europaweit für interessante Daten? Gibts schon ne Übersicht?
