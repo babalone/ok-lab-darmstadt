@@ -12,6 +12,7 @@ Ein erster Teil wird wohl erstmal eine Bestandsaufnahme der existierenden und ge
 
 ### Datenplattform
 Im Rahmen der Digitalstadt Darmstadt soll Darmstadt eine Datenplattform bekommen. Ausschreibung sollte Ende 2019 Enden und in 2020 sollen erste Daten darüber verfügbar sein.
+[update 30.7.2020] Das ist keine Open Data Plattform, Zugriff auf Daten kann man auf Anfrage bekommen, ende 2021 wird vorraussichtich ein Dashboard öffentlich verfügbar sein.
 
 ## Datenquellen
 Wo bekommt man Daten her? Welche Lizenz haben die? (Wie) Kommt man an die maschinenlesbaren Daten?
