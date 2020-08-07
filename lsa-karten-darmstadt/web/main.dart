@@ -1,4 +1,5 @@
 import 'dart:html';
+import 'properties.dart';
 import 'package:dartleaf/dartleaf.dart';
 
 void main() {
@@ -7,10 +8,10 @@ void main() {
 //  output.children.addAll(thingsTodo().map(newLI));
   var mapElement = querySelector('#output');
   var options = TileLayerOptions();
-  var urlTemplate = 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
+  var urlTemplate = MapAppProperties.tilesTemplateUrl;
   var map = LeafletMap.fromElement(mapElement);
   TileLayer(urlTemplate, options).addTo(map);
-  map.setView(LatLng(49.8680, 8.655), 12);
+  map.setView(LatLng(MapAppProperties.mapCenterLat, MapAppProperties.mapCenterLng), MapAppProperties.mapZoom);
 }
 
 //LIElement newLI(String itemText) => LIElement()..text = itemText;
