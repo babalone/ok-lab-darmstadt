@@ -8,6 +8,7 @@ environment:
 
 dependencies:
   dartleaf: ^0.1.5
+  xml: ^4.3.0
 #  path: ^1.7.0
 
 dev_dependencies:
