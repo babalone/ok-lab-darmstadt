@@ -10,4 +10,6 @@ All of the above can have one or more associated tags (which describe the meanin
 */
 class Element {
   Map<String, String> tags = {};
+
+  Element(this.tags);
 }

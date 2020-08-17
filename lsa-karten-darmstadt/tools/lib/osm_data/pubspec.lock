@@ -15,6 +15,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.39.14"
+  angles:
+    dependency: transitive
+    description:
+      name: angles
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "1.2.1"
   archive:
     dependency: transitive
     description:
@@ -428,6 +435,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.2.0"
+  utm:
+    dependency: "direct main"
+    description:
+      name: utm
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.1.2"
   watcher:
     dependency: transitive
     description:
@@ -448,7 +462,7 @@ packages:
       name: xml
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "4.3.0"
+    version: "4.4.0"
   yaml:
     dependency: transitive
     description:

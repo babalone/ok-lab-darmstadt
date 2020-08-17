@@ -8,4 +8,6 @@ Note that closed ways occasionally represent loops, such as roundabouts on highw
 
 Areas with holes, or with boundaries of more than 2,000 nodes, cannot be represented by a single way. Instead, the feature will require a more complex multipolygon relation data structure.
  */
+import 'element.dart';
+
 class Way extends Element {}

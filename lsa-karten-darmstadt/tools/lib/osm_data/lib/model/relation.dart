@@ -14,4 +14,6 @@ Each element can optionally have a role within the relation. For example, a turn
 
 A single element such as a particular way may appear multiple times in a relation.
  */
+import 'element.dart';
+
 class Relation extends Element {}

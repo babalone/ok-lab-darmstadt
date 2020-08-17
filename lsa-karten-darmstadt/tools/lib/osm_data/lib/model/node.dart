@@ -8,4 +8,17 @@ Nodes are also used to define the shape of a way. When used as points along ways
 
 A node can be included as member of relation. The relation also may indicate the member's role: that is, the node's function in this particular set of related data elements.
  */
-class Node extends Element {}
+import 'element.dart';
+import 'package:utm/utm.dart';
+//import 'package:utm/utm.dart';
+
+class Node extends Element {
+  int id;
+  UtmCoordinate coordinate;
+
+  Node(this.id, double lat, double lon, Map<String, String> tags)
+      : super(tags) {
+    coordinate =
+        UTM.fromLatLon(lat: lat, lon: lon, type: GeodeticSystemType.wgs84);
+  }
+}
