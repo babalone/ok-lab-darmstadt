@@ -52,16 +52,16 @@ Was gibt es in Darmstadt schon für offene Daten? Nur die Daten, oder auch Visua
 * Lärmdaten von DaSense?
 * Telekom Messstationen
 * [Verkehrsdaten (Visualisierung)](https://darmstadt.ui-traffic.de/), auch [auf der Datenplattform](https://datenplattform.darmstadt.de/verkehr/apps/uitraffic)
- * [Verkehrsdaten (Rohdaten)](https://datenplattform.darmstadt.de/verkehr/apps/opendata/#/), vormals [hier](https://darmstadt.ui-traffic.de/faces/TrafficData.xhtml)
- * Die LSAs (Ampeln) finden sich auch in OpenStreetMap [hier](https://overpass-turbo.eu/s/X50) mit Overpass-QL abgefragt werden. (Query: `relation[type=traffic_signals_set](49.78, 8.52, 49.97, 8.77);(._;>>;);out meta;`)
+  * [Verkehrsdaten (Rohdaten)](https://datenplattform.darmstadt.de/verkehr/apps/opendata/#/), vormals [hier](https://darmstadt.ui-traffic.de/faces/TrafficData.xhtml)
+  * Die LSAs (Ampeln) finden sich auch in OpenStreetMap [hier](https://overpass-turbo.eu/s/X50) mit Overpass-QL abgefragt werden. (Query: `relation[type=traffic_signals_set](49.78, 8.52, 49.97, 8.77);(._;>>;);out meta;`)
 * [Stadtatlas Darmstadt](https://www.darmstadt.de/darmstadt-erleben/stadtplan/) ([Direktlink](https://stadtatlas.darmstadt.de/))
- * [Beschlusslandkarte](https://stadtatlas.darmstadt.de/beschlusslandkarte.html)
- * [Straßenbenennung 2019](http://stadtatlas.darmstadt.de/Strassenbenennung_2019.pdf)
- * [API](stadtatlas-api.md)
+  * [Beschlusslandkarte](https://stadtatlas.darmstadt.de/beschlusslandkarte.html)
+  * [Straßenbenennung 2019](http://stadtatlas.darmstadt.de/Strassenbenennung_2019.pdf)
+  * [API](stadtatlas-api.md)
 * [Stadtlexikon](https://www.darmstadt-stadtlexikon.de/stadtlexikon-darmstadt.html)
 * [Ratsinformationssystem](https://ris.darmstadt.de)
- * auch über [diesen Link](https://darmstadt.more-rubin1.de/) erreichbar
- * Scraper dazu: https://github.com/mdrenger/scrapeDA
+  * auch über [diesen Link](https://darmstadt.more-rubin1.de/) erreichbar
+  * Scraper dazu: https://github.com/mdrenger/scrapeDA
 * Haushaltsdaten
   * [interaktiver Haushalt Darmstadt (ab 2020)](https://primary.ikvs.de/sj/Produkthaushalt.xhtml?jahr=2020&kid=185b19c518xv18cg18cg185b185b185b185b185b185b185b185b185b185b18ce18ce18xn19bt185b&typ=18qm194y194s18qo&dswid=1092)
   * [Offener Haushalt 2015](https://da-bei.darmstadt.de/page/Offener_Haushalt_2015) - gibt es das auch für andere Jahre?
@@ -71,15 +71,15 @@ Was gibt es in Darmstadt schon für offene Daten? Nur die Daten, oder auch Visua
 * [Daten zur Trinkwasserqualität der Entega](https://www.entega.ag/geschaeftsfelder/oeffentl-rechtl-betriebsfuehrung/trinkwasserversorgung/)
 
 ### Frankfurt
-- [Baumkataster](https://geoinfo.frankfurt.de/karten/baumkataster.html)
+* [Baumkataster](https://geoinfo.frankfurt.de/karten/baumkataster.html)
 
 ### Hessen
 Was gibt es in Hessen für interessante Daten? Gibts schon ne Übersicht? (z.B. Luftmessdaten, Daten vom Umweltministerium, Bevölkerungsentwicklung, Nahverkehrsplan)
 * [Lärmkarte](http://laerm.hessen.de/) des [Hessisches Landesamt für Naturschutz, Umwelt und Geologie](https://www.hlnug.de/)
 * [Karte des Hessisches Naturschutzinformationssystem](http://natureg.hessen.de) des [Hessisches Landesamt für Naturschutz, Umwelt und Geologie](https://www.hlnug.de/)
 * [Open-Data-Portal des RMV](https://opendata.rmv.de/site/start.html)
- * RMV kennt "Livedaten" selbst nur mit 20 bis 50 Sekunden Verzögerung
- * Hier [ein Projekt](https://darmstart.de/) unter [AGPL](https://www.gnu.org/licenses/agpl-3.0)-Lizenz vom [Chaos Darmstadt](https://www.chaos-darmstadt.de), dass die Daten nutzt. Quellcode findet man [hier](https://git.darmstadt.ccc.de/cda/publictransport/).
+  * RMV kennt "Livedaten" selbst nur mit 20 bis 50 Sekunden Verzögerung
+  * Hier [ein Projekt](https://darmstart.de/) unter [AGPL](https://www.gnu.org/licenses/agpl-3.0)-Lizenz vom [Chaos Darmstadt](https://www.chaos-darmstadt.de), dass die Daten nutzt. Quellcode findet man [hier](https://git.darmstadt.ccc.de/cda/publictransport/).
 * [Geoportal Hessen](https://www.geoportal.hessen.de/)
 
 ### Bundesweit
