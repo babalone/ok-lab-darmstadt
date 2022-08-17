@@ -69,6 +69,7 @@ Was gibt es in Darmstadt schon für offene Daten? Nur die Daten, oder auch Visua
 * [Daten des Statistikamtes als PDF :(](https://www.darmstadt.de/standort/statistik-und-stadtforschung)
 * [Freifunk Dashboard (Grafana)](https://stats.darmstadt.freifunk.net/)
 * [Daten zur Trinkwasserqualität der Entega](https://www.entega.ag/geschaeftsfelder/oeffentl-rechtl-betriebsfuehrung/trinkwasserversorgung/)
+* [Gründach- und Entsiegelungskataster Darmstadt](https://www.gpm-webgis-13.de/geoapp/kataster/darmstadt/)
 
 ### Frankfurt
 * [Baumkataster](https://geoinfo.frankfurt.de/karten/baumkataster.html)
